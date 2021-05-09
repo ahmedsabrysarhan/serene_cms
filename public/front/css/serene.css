@@ -1,0 +1,21 @@
+.empty-div {
+    border: 0.5px solid rgb(218, 208, 208);
+    border-left-width: 2px;
+    border-left-color: red;
+    padding: 10px 15px;
+}
+
+#adImage {
+    width: 825px !important;
+    height: 321px !important;
+}
+
+.card-img-top {
+    width: 253px !important;
+    height: 145px !important;
+    margin: auto;
+}
+
+a {
+    text-decoration: none;
+}
